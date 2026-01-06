@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Registreren</title>
-    <link rel="stylesheet" href="/dark.css">
+    <link rel="stylesheet" href="/index.css">
 </head>
 <body>
 

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Dashboard</title>
-    <link rel="stylesheet" href="/dark.css">
+    <link rel="stylesheet" href="/index.css">
 </head>
 <body>
 
@@ -28,7 +28,6 @@
             </tr>
         </thead>
         <tbody>
-            <!-- PHP loop hier -->
             <tr>
                 <td>Google</td>
                 <td>test@gmail.com</td>
