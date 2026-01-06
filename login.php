@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
-    <link rel="stylesheet" href="assets/dark.css">
+    <link rel="stylesheet" href="/index.css">
 </head>
 <body>
 
